@@ -1,0 +1,22 @@
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.deps.json
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.runtimeconfig.json
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.runtimeconfig.dev.json
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.dll
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.pdb
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.AssemblyInfoInputs.cache
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.AssemblyInfo.cs
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.dll
+C:\Users\tauro\Desktop\Ejercicios\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.deps.json
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.runtimeconfig.json
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.runtimeconfig.dev.json
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.dll
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\bin\Debug\netcoreapp2.1\Ejercicio01.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.AssemblyInfoInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.AssemblyInfo.cs
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.dll
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\63-IngresaYMuestra3Nombres\Ejercicio01\obj\Debug\netcoreapp2.1\Ejercicio01.pdb
